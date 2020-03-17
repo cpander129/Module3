@@ -1,0 +1,32 @@
+body {
+    background-color: #1A1A1A
+}
+
+div {
+    padding: 10px;
+    margin: 15px;
+}
+
+.property {
+    background-color: #10ADED;
+    color: white;
+}
+
+.special {
+    background-color: #1D1075;
+    color: white;
+}
+
+.superHost {
+    background-color: #10073D;
+    color: white
+}
+
+.true {
+
+    color: green;
+}
+
+.false {
+    color: #C21515;
+}
